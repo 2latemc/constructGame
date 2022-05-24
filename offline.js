@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1652855030,
+	"version": 1653409882,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,10 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/51fde640b06bb-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/hinderniss-sheet0.png",
+		"images/h-sheet0.png",
+		"images/barrierandtrafficconesetpixelstylevector25599946kopie-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
